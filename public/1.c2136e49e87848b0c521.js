@@ -1,0 +1,1 @@
+webpackJsonp([1],{144:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var l=u(0),r=n(l),a=u(49),c=n(a);t.default=function(){return r.default.createElement("div",null,"About...",r.default.createElement("img",{src:c.default}))}}});
