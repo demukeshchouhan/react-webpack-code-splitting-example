@@ -1,2 +1,2 @@
 # Webpack Code Splitting With React
-[link](http://slippery-toad.surge.sh/ "Demo").
+[Demo on surge](http://slippery-toad.surge.sh/).
