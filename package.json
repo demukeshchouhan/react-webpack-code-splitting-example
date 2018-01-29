@@ -29,10 +29,12 @@
     "url-loader": "^0.6.2",
     "webpack": "^3.10.0",
     "webpack-bundle-analyzer": "^2.9.2",
+    "webpack-dev-middleware": "^2.0.4",
     "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
     "axios": "^0.17.1",
+    "express": "^4.16.2",
     "lodash": "^4.17.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
